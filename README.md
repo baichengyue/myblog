@@ -1,6 +1,6 @@
-# 2025 Blog
+#  Blog
 
-> 最新引导说明：https://www.yysuni.com/blog/readme
+> 最新引导说明：(https://www.broxy.top/blog/readme)
 
 该项目使用 Github App 管理项目内容，请保管好后续创建的 **Private key**，不要上传到公开网上。
 
@@ -21,7 +21,7 @@ export const GITHUB_CONFIG = {
 
 ## 2. 部署
 
-我这里熟悉 Vercel 部署，就以 Vercel 部署为例子。创建 Project => Import 这个项目
+以 Vercel 部署为例子。创建 Project => Import 这个项目
 
 ![](https://www.yysuni.com/blogs/readme/730266f17fab9717.png)
 
@@ -128,24 +128,7 @@ const LiquidGrass = dynamic(() => import('@/components/liquid-grass'), { ssr: fa
 
 ![](https://www.yysuni.com/blogs/readme/20b0791d012163ee.png)
 
-## 9. 互助群
 
-对于完全不是**程序员**的用户，确实会对于更新代码后，如何同步，如何**合并代码**手足无措。我创建了一个 **QQ群**（加群会简单点），或者 vx 群还是 tg 群会好一点可以 issue 里面说下就行。
-
-QQ 群：[https://qm.qq.com/q/spdpenr4k2](https://qm.qq.com/q/spdpenr4k2)
-> 不好意思，之前的那个qq群ID（1021438316），不知道为啥搜不到😂
-
-微信群：刚建好了一个微信群，没有 qq 的可以用这个微信群
-![](https://www.yysuni.com/blogs/readme/343f2c62035b8e23.webp)
-
-tg 群：1月1号，才创建的 tg 群 https://t.me/public_blog_2025
-
-
-应该主要是我自己亲自帮助你们遇到问题怎么办。（后续看看有没有好心人）
-
-希望多多的非程序员加入 blogger 行列，web blog 还是很好玩的，属于自己的 blog 世界。
-
-游戏资产不一定属于你的，你只有**使用权**，但这个 blog **网站、内容、仓库一定是属于你的**
 
 #### 特殊的导航 Card
 
