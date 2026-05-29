@@ -476,6 +476,19 @@
     "cover": "/blogs/google-translate-error/e0f9d6f869c3d53fd4994f900b485aa46bb025ac0fe4ab299ba333ee550ddce3.png"
   },
   {
+    "slug": "06-03",
+    "title": "ts常用类型与语法",
+    "tags": [
+      "ts",
+      "学习"
+    ],
+    "date": "2025-06-03T21:59",
+    "summary": "简要说明一下ts元素类型",
+    "cover": "/blogs/06-03/a3d4828e9c97854e.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "object-vs-map",
     "title": "记 Object vs Map 性能表现",
     "tags": [
