@@ -487,6 +487,16 @@
     "cover": "/blogs/object-vs-map/e89a0eee349564c46a1422508b93431803c5fe749f130bfa5fed8e9e80457aae.jpg"
   },
   {
+    "slug": "typescript",
+    "title": "ts基础元素类型",
+    "tags": [],
+    "date": "2025-06-01T21:54",
+    "summary": "ts基础知识",
+    "cover": "/blogs/typescript/a3d4828e9c97854e.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "array-vs-object",
     "title": "记 Array vs Object 性能表现",
     "tags": [
