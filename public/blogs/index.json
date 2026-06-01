@@ -310,6 +310,19 @@
     "category": ""
   },
   {
+    "slug": "06-06",
+    "title": "ts常用类型下",
+    "tags": [
+      "ts",
+      "学习"
+    ],
+    "date": "2025-06-06T00:26",
+    "summary": "分享下ts中enum，type的相关用法知识",
+    "cover": "/blogs/06-06/a3d4828e9c97854e.jpg",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "06-05",
     "title": "ts常用类型上",
     "tags": [
